@@ -1,4 +1,3 @@
 I will add all docker file.
-
-from centos
+centos/7
 RUN apt-get update -y
